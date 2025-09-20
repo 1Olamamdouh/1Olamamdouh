@@ -1,4 +1,8 @@
-I'm a Front-End Developer with experience in building responsive websites with HTML, CSS, JavaScript , AJAX, JSON , ES6 , JQuery and TypeScript. Expertise in frameworks like React.js and Bootstrap. Expertise in code versioning tools, such as GIT and GiTHub . Passionate about clean code and getting things done..
-1Olamamdouh/1Olamamdouh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Ola Mamdouh Shehata
+
+👩‍💻 Software Engineer | Backend Developer (.NET)  
+______________________________________________________________________________
+Passionate about building efficient, scalable systems with .NET technologies.  
+Interested in advanced algorithms, problem-solving, and exploring modern technologies.  
+Always eager to learn, contribute, and grow as a developer.  
+
