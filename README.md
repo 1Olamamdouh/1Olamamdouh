@@ -12,6 +12,7 @@ Passionate about building efficient, scalable systems with .NET technologies and
 🌱 Always eager to learn, build, and contribute to impactful projects.
 
 🚀 Goals
+
 Career Growth: Aiming to secure a position at a major tech company where I can contribute to impactful projects.
 Skill Enhancement: Focused on mastering advanced problem-solving techniques and refining my knowledge in backend architecture.
 Financial Stability: Working towards a successful and stable career, balancing professional growth with personal well-being.
